@@ -13,7 +13,7 @@ ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[blue]%})%{$fg[green]%} ✔ %{$reset_color%}"
 
 # Prompt format:
 #
-# PRIVILEGES ➜ DIRECTORY git:(BRANCH) COMMAND
+# ➜ DIRECTORY git:(BRANCH) COMMAND
 #
 # For example:
 #
