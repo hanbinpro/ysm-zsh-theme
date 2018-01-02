@@ -2,3 +2,5 @@
 ysm theme is a simple oh-my-zsh theme.
 
 ## screenshot
+
+![](./ysm-zsh.png)
